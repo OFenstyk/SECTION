@@ -1005,19 +1005,19 @@ section {
   background-color: #ffffff; }
 
 .one {
-  background: url(/img/employee-1.jpg) no-repeat 30% 0%;
+  background: url(./img/employee-1.jpg) no-repeat 30% 0%;
   background-size: cover; }
 
 .two {
-  background: url(/img/employee-2.jpg) no-repeat 30% 0%;
+  background: url(./img/employee-2.jpg) no-repeat 30% 0%;
   background-size: cover; }
 
 .three {
-  background: url(/img/employee-3.jpg) no-repeat 30% 0%;
+  background: url(./img/employee-3.jpg) no-repeat 30% 0%;
   background-size: cover; }
 
 .four {
-  background: url(/img/employee-4.jpg) no-repeat 30% 0%;
+  background: url(./img/employee-4.jpg) no-repeat 30% 0%;
   background-size: cover; }
 
 .mask .details {
